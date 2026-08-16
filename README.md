@@ -1,4 +1,3 @@
-# mlb-payroll-wins-analysis
 # MLB Team Payroll & Winning History
 
 A comparative analysis of how MLB team payroll relates to wins, playoff appearances, and fan attendance — and whether the league's soft salary cap actually promotes competitive balance.
