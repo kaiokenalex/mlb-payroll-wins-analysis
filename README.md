@@ -47,4 +47,11 @@ Five `ggplot2` visualizations included: win % distribution by spending tier (vio
 - Rendered HTML/PDF output
 
 ---
-*Author: Alexis Ortiz — Econ 106 Final Project*
+*Author: Alexis Ortiz — Personal Project*
+
+<img width="500" height="300" alt="payrollvswins" src="https://github.com/user-attachments/assets/b7ea795b-ad72-426a-a50b-e94b7417fb96" />
+
+<img width="500" height="300" alt="playoff_spending" src="https://github.com/user-attachments/assets/caa8501b-10a4-413d-a931-1becaa34e6ff" />
+
+<img width="500" height="300" alt="spendingvsfanattendance" src="https://github.com/user-attachments/assets/1707e64d-da4c-438b-b284-423999bb17b1" />
+
