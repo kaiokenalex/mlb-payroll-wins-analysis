@@ -2,6 +2,8 @@
 
 A comparative analysis of how MLB team payroll relates to wins, playoff appearances, and fan attendance — and whether the league's soft salary cap actually promotes competitive balance.
 
+<img width="500" height="300" alt="payrollvswins" src="https://github.com/user-attachments/assets/b7ea795b-ad72-426a-a50b-e94b7417fb96" />
+
 ## Motivation
 
 Recent World Series winners have disproportionately come from high-payroll teams (Dodgers, Yankees). Unlike the NFL's hard salary cap, MLB uses a "soft" luxury tax that large-market teams can simply pay as a cost of doing business. This project investigates whether payroll actually predicts winning, and builds a data-driven case for stricter salary cap enforcement.
@@ -33,6 +35,9 @@ Recent World Series winners have disproportionately come from high-payroll teams
 | Is the relationship equal at every spending level? | No — throwing money at mid-tier payrolls doesn't guarantee proportional gains, suggesting scouting/allocation matters as much as raw spend |
 
 ## Visualizations
+<img width="500" height="300" alt="playoff_spending" src="https://github.com/user-attachments/assets/caa8501b-10a4-413d-a931-1becaa34e6ff" />
+
+<img width="500" height="300" alt="spendingvsfanattendance" src="https://github.com/user-attachments/assets/1707e64d-da4c-438b-b284-423999bb17b1" />
 
 Five `ggplot2` visualizations included: win % distribution by spending tier (violin plot), payroll vs. wins with tier-level trend lines, payroll by playoff status (boxplot), wins vs. attendance by tier, and a faceted win-distribution density plot.
 
@@ -49,9 +54,5 @@ Five `ggplot2` visualizations included: win % distribution by spending tier (vio
 ---
 *Author: Alexis Ortiz — Personal Project*
 
-<img width="500" height="300" alt="payrollvswins" src="https://github.com/user-attachments/assets/b7ea795b-ad72-426a-a50b-e94b7417fb96" />
 
-<img width="500" height="300" alt="playoff_spending" src="https://github.com/user-attachments/assets/caa8501b-10a4-413d-a931-1becaa34e6ff" />
-
-<img width="500" height="300" alt="spendingvsfanattendance" src="https://github.com/user-attachments/assets/1707e64d-da4c-438b-b284-423999bb17b1" />
 
